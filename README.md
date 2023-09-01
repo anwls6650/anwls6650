@@ -1,8 +1,8 @@
 <div align="center"> 
 
-<img src="https://github.com/anwls6650/anwls6650/assets/139212680/a48299d0-8bea-457b-9a3a-f78226305286"  >
+<img src="https://github.com/anwls6650/anwls6650/assets/139212680/a48299d0-8bea-457b-9a3a-f78226305286" width="110" height="120" >
 
-# welcome 🌱
+# welcome :wave:
 ### 저는 성장을 추구하고 있는 개발자입니다! 
 
 #
@@ -31,4 +31,4 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=940605&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-####  :wave: Welcome my github profile !
+
