@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://github.com/anwls6650/anwls6650/assets/139212680/8b932cd4-130a-4fab-a4a3-8083dc03f05e" >
+<img src="https://github.com/anwls6650/anwls6650/assets/139212680/a48299d0-8bea-457b-9a3a-f78226305286"  >
 
 # welcome 🌱
 ### 성장을 추구하는 개발자입니다.
