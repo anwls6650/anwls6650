@@ -3,8 +3,9 @@
 <img src="https://github.com/anwls6650/anwls6650/assets/139212680/a48299d0-8bea-457b-9a3a-f78226305286"  >
 
 # welcome 🌱
-### 성장을 추구하는 개발자입니다.
+### 저는 성장을 추구하고 있는 개발자입니다! 
 
+#
 ## 🚀 Tech Stacks 🚀
 
 <div align="center">
@@ -13,7 +14,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 
